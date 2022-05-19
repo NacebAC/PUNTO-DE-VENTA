@@ -1,0 +1,152 @@
+[
+    {
+        "nombre": "Marin",
+        "rfc": "MAMD020609",
+        "direccion": "Venezuela 1079",
+        "fecha": "2022-02-12",
+        "subtotal": 34.8,
+        "iva": 5.568,
+        "total": 40.367999999999995,
+        "dvLista": [
+            {
+                "nombre": "Frijoles",
+                "codigo": "321",
+                "precio": 10.0,
+                "cantidad": 3,
+                "subtotal": 30.0,
+                "iva": 4.8,
+                "total": 34.8,
+                "lista": []
+            }
+        ],
+        "filename": "ventas.json"
+    },
+    {
+        "nombre": "Marin",
+        "rfc": "MAMD020609",
+        "direccion": "Venezuela 1079",
+        "fecha": "2022-02-12",
+        "subtotal": 92.8,
+        "iva": 14.847999999999999,
+        "total": 107.648,
+        "dvLista": [
+            {
+                "nombre": "Frijoles",
+                "codigo": "321",
+                "precio": 10.0,
+                "cantidad": 5,
+                "subtotal": 50.0,
+                "iva": 8.0,
+                "total": 58.0,
+                "lista": []
+            },
+            {
+                "nombre": "Galletas",
+                "codigo": "213",
+                "precio": 15.0,
+                "cantidad": 2,
+                "subtotal": 30.0,
+                "iva": 4.8,
+                "total": 34.8,
+                "lista": []
+            }
+        ],
+        "filename": "ventas.json"
+    },
+    {
+        "nombre": "Marin",
+        "rfc": "MAMD020609",
+        "direccion": "Venezuela 1079",
+        "fecha": "2022-02-13",
+        "subtotal": 121.8,
+        "iva": 19.488,
+        "total": 141.288,
+        "dvLista": [
+            {
+                "nombre": "Frijoles",
+                "codigo": "321",
+                "precio": 10.0,
+                "cantidad": 3,
+                "subtotal": 30.0,
+                "iva": 4.8,
+                "total": 34.8,
+                "lista": []
+            },
+            {
+                "nombre": "Lecha",
+                "codigo": "123",
+                "precio": 25.0,
+                "cantidad": 3,
+                "subtotal": 75.0,
+                "iva": 12.0,
+                "total": 87.0,
+                "lista": []
+            }
+        ],
+        "filename": "ventas.json"
+    },
+    {
+        "nombre": "Marin",
+        "rfc": "MAMD020609",
+        "direccion": "Venezuela 1079",
+        "fecha": "2022-02-14",
+        "subtotal": 104.4,
+        "iva": 16.704,
+        "total": 121.10400000000001,
+        "dvLista": [
+            {
+                "nombre": "Frijoles",
+                "codigo": "321",
+                "precio": 10.0,
+                "cantidad": 4,
+                "subtotal": 40.0,
+                "iva": 6.4,
+                "total": 46.4,
+                "lista": []
+            },
+            {
+                "nombre": "Lecha",
+                "codigo": "123",
+                "precio": 25.0,
+                "cantidad": 2,
+                "subtotal": 50.0,
+                "iva": 8.0,
+                "total": 58.0,
+                "lista": []
+            }
+        ],
+        "filename": "ventas.json"
+    },
+    {
+        "nombre": "Marin",
+        "rfc": "MAMD020609",
+        "direccion": "Venezuela 1079",
+        "fecha": "2022-03-09",
+        "subtotal": 52.199999999999996,
+        "iva": 8.352,
+        "total": 60.55199999999999,
+        "dvLista": [
+            {
+                "nombre": "Galletas",
+                "codigo": "213",
+                "precio": 15.0,
+                "cantidad": 2,
+                "subtotal": 30.0,
+                "iva": 4.8,
+                "total": 34.8,
+                "lista": []
+            },
+            {
+                "nombre": "Galletas",
+                "codigo": "213",
+                "precio": 15.0,
+                "cantidad": 1,
+                "subtotal": 15.0,
+                "iva": 2.4,
+                "total": 17.4,
+                "lista": []
+            }
+        ],
+        "filename": "ventas.json"
+    }
+]

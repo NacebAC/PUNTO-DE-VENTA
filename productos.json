@@ -1,0 +1,37 @@
+[
+    {
+        "filename": "productos.json",
+        "nombre": "Teclado",
+        "codigo": "1478",
+        "precio": 250.0,
+        "__idx__": 0
+    },
+    {
+        "filename": "productos.json",
+        "nombre": "Galletas",
+        "codigo": "213",
+        "precio": 15.0,
+        "__idx__": 0
+    },
+    {
+        "filename": "productos.json",
+        "nombre": "Frijoles",
+        "codigo": "321",
+        "precio": 10.0,
+        "__idx__": 0
+    },
+    {
+        "filename": "productos.json",
+        "nombre": "Laptop",
+        "codigo": "1",
+        "precio": 12000.0,
+        "__idx__": 0
+    },
+    {
+        "filename": "productos.json",
+        "nombre": "Dado",
+        "codigo": "1234566",
+        "precio": 12.0,
+        "__idx__": 0
+    }
+]
